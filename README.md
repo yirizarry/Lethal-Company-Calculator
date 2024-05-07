@@ -10,3 +10,6 @@ Total Credits wanted: 550 (rend)
 First quota: 130
 
 Which returns the calculated OT bonues and the scrap credit amount that will have to be sold.
+
+User must input positive integers.
+Program will not close if he doesn't insert correct input.
