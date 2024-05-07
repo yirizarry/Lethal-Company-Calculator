@@ -14,5 +14,7 @@ Which returns the calculated OT bonues and the scrap credit amount that will hav
 2. Script will take the credit amount of items sold and quota and return the total amount and overtime bonus.
 
 3. Exits Program
+
+-----------------------------------------------------NOTE-------------------------------------------------------
 User must input positive integers.
 Program will not close if he doesn't insert correct input.
